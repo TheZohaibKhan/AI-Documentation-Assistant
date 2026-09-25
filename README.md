@@ -1,7 +1,6 @@
 # AI Documentation Assistant
 
 [![GitHub Action](https://img.shields.io/badge/GitHub-Action-blue.svg)](https://github.com/TheZohaibKhan/AI-Documentation-Assistant)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 [**Try the interactive demo**](https://thezohaibkhan.github.io/AI-Documentation-Assistant/)
 
