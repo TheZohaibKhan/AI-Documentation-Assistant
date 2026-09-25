@@ -3,7 +3,7 @@
 [![GitHub Action](https://img.shields.io/badge/GitHub-Action-blue.svg)](https://github.com/TheZohaibKhan/AI-Documentation-Assistant)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-[**Try the interactive demo**](https://TheZohaibKhan.github.io/AI-Documentation-Assistant/demo/)
+[**Try the interactive demo**](https://thezohaibkhan.github.io/AI-Documentation-Assistant/)
 
 AI-powered GitHub Action that automatically analyzes code changes and updates documentation using any OpenAI-compatible LLM (vLLM on OpenShift AI, Gemini, OpenAI, etc.).
 
@@ -229,7 +229,7 @@ Any OpenAI-compatible API works. Common examples:
 
 The `[review-feature]` command runs the full `[review-docs]` flow (identifying relevant doc files and suggesting updates) and adds a **Spec vs Code Analysis** section. It fetches the Jira ticket and its linked specification documents, extracts requirements, and compares them against the PR code changes to identify covered, missing, and unplanned changes.
 
-[**See it in action**](https://TheZohaibKhan.github.io/AI-Documentation-Assistant/demo/review-feature)
+[**See it in action**](https://thezohaibkhan.github.io/AI-Documentation-Assistant/review-feature.html)
 
 ### Spec Doc Locations
 
